@@ -1,0 +1,23 @@
+.content-box {
+    border-right: 1px solid #8e86b5;
+    border-bottom: 1px solid #8e86b5;
+    padding: 50px;
+    margin-bottom: 80px;
+}
+
+.content-box h2 {
+    margin-top: 30px;
+}
+
+.content-box ul {
+    margin-top: 30px;
+}
+
+.content-box + div {
+    text-align: center;
+}
+
+.about-main {
+    width: 50%;
+    margin: auto;
+}
